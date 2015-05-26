@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "**오늘의 당신은 책임져드립니다!**"
 date:   2015-05-19 23:33:54
 categories: jekyll update
 ---
